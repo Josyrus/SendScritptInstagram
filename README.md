@@ -1,4 +1,4 @@
-# SendScriptWhatsApp
+# SendScriptInstagram
 
 Code to sent the entire script of Shrek or Bee Movie to your friends or WhatsApp groups
 
