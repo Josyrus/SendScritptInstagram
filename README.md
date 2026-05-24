@@ -5,9 +5,9 @@ Code to sent the entire script of Shrek or Bee Movie to your friends or Instagra
 ## Usage
 Open one of these scripts:
 
-1. [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptInstagram/blob/main/shrekSendScript.js)
-2. [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptInstagram/blob/main/beeMovieSendScript.js)
-3. [jokerSendScript.js](https://github.com/Josyrus/SendScriptInstagram/blob/main/jokerSendScript.js)
+1. [shrekSendScript.js](https://github.com/Josyrus/SendScritptInstagram/blob/main/sherkSendScript.js)
+2. [beeMovieSendScript.js](https://github.com/Josyrus/SendScritptInstagram/blob/main/beeMovieSendScript.js)
+3. [jokerSendScript.js](https://github.com/Josyrus/SendScritptInstagram/blob/main/jokerSendScript.js)
 
 Copy all content (Click on raw or ctrl+a -> ctrl+c)
 
