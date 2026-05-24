@@ -1,6 +1,6 @@
 # SendScriptInstagram
 
-Code to sent the entire script of Shrek or Bee Movie to your friends or WhatsApp groups
+Code to sent the entire script of Shrek or Bee Movie to your friends or Instagram groups
 
 ## Usage
 Open one of these scripts:
@@ -11,7 +11,7 @@ Open one of these scripts:
 
 Copy all content (Click on raw or ctrl+a -> ctrl+c)
 
-In WhatsApp Web, open the browser console (Press ctrl+shift+c)
+In Instagram web, open the browser console (Press ctrl+shift+c)
 
 |  ⚠️ WARNING, for security reasons the web browser is blocking the script in console.|
 |--|
